@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const BASE_URL = "https://api.daily.co/v1"; // Sẽ thay thế sau
-const DAILY_API_KEY = import.meta.env.VITE_DAILY_API_KEY; // Key API
+const DAILY_API_KEY = "5c9569b233ce26b3193eeaceb4a599cdd2549ff297604841fd5a8f5d4612f3d5"; // Key API
 
 // Hàm gọi API với header Authorization
 const headers = {
