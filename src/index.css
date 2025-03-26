@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+@layer components{
+    .text-shadow{
+        text-shadow:0.5px 0.75px 1px rgb(75, 75, 75)  ;
+    }
+}
